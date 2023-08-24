@@ -1,6 +1,6 @@
 # Thoughts about data science and statistics
 
-This blog post will respond to the following questions based on the articles and my personal knowledge and understanding about data science and statistics.
+This blog post will respond to the following questions based on the articles and my personal knowledge and understanding of data science and statistics.
 
   - [data-scientist-vs-statistician](https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician)
 
@@ -32,12 +32,16 @@ A data scientist is a professional who uses their skills in various fields such 
   - **Model Building** - developing predictive and analytical models using machine learning algorithms.
   - **Model Evaluation** - assessing model accuracy, reliability, and generalization using appropriate metrics
   - **Interpretation and Communication** - translating complex analytical results into actionable insights for non-technical stakeholders and effectively communicating findings through reports, presentations, and visualizations
-  - **Programming** - proficiency in languages like Python or R
-  - **Statistics** - applying statistical methods to analyze data and draw conclusions
   - **Problem-Solving and Creativity** - identifying relevant business or research problems that can be solved using data-driven approaches and developing creative solutions to challenges that arise during data analysis.
 
- **Knowledge areas**   
+ **Knowledge areas**
+  - **Machine Learning** - knowledge of various algorithms for classification, regression, clustering, etc.
+  - **Statistics** - applying statistical methods to analyze data and draw conclusions
+  - **Programming** - proficiency in languages like Python or R
   - **Big Data and Cloud Computing** - understanding of tools like Hadoop, Spark, and Polars for managing and analyzing large datasets and awareness of cloud platforms for scalable data processing
+  - **Domain Expertise** - familiarity with the specific industry or field being analyzed
+  - **Database Management** - knowledge of relational databases and non-relational databases
+  - **Ethics and Privacy** - understanding of legal and ethical considerations in data analysis
  
 
 ## What differences/similarities do you see between data scientists and statisticians?
