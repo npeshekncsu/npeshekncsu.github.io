@@ -47,6 +47,8 @@ A data scientist is a professional who uses their skills in various fields such 
 ## What differences/similarities do you see between data scientists and statisticians?
 
 #### Similarities:
+
+
   - **Technical skills**
     - **Expertise in statistical analysis:** Both data scientists and statisticians have expertise in data analysis, which involves using statistical techniques to make sense of large sets of data.
     - **Knowledge of programming languages:** They're familiar with programming languages such as R, Python, and SQL and use them to manipulate and analyze data.
@@ -54,8 +56,8 @@ A data scientist is a professional who uses their skills in various fields such 
     - **Strong mathematical background:** They require a strong mathematical background, including knowledge of calculus, linear algebra, and probability theory.
     - **Knowledge of machine learning:** Data scientists and statisticians both have a solid understanding of machine learning techniques and how they can help solve real-world problems.
 
-  - **Soft skills**
 
+  - **Soft skills**
     - **Problem-solving skills:** It's important that both data scientists and statisticians can approach problems in a systematic and analytical way and use their expertise to identify effective solutions.
     - **Communication:** Both roles require strong communication skills, as data scientists and statisticians often explain their findings to people without a technical background.
     - **Attention to detail:** Both roles require a high level of attention to detail, as mistakes in data analysis can have significant consequences.
@@ -70,3 +72,6 @@ A data scientist is a professional who uses their skills in various fields such 
   - **Tools** Data scientists typically work with large, complex datasets and use a wide range of tools and technologies, such as machine learning algorithms, data visualization tools, and programming languages like Python and R. Statisticians also use statistical software like R and SAS, but they generally more traditional statistical techniques like regression analysis, hypothesis testing, and analysis of variance (ANOVA).
 
 ## How do you view yourself in relation to these two areas?
+
+As for now, I have professional experience in software engineering and data science areas. I believe, that improving my statistical and math knowledge by pursuing a degree in statistics will give me an opportunity to solve different tasks in data more efficiently. 
+
