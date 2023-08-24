@@ -1,6 +1,6 @@
 # Thoughts about data science and statistics
 
-This blog post will respond to the following questions based on the articles:
+This blog post will respond to the following questions based on the articles and my personal knowledge and understanding about data science and statistics.
 
   - [data-scientist-vs-statistician](https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician)
 
@@ -25,13 +25,20 @@ A data scientist is a professional who uses their skills in various fields such 
 
 ## What do you see as the major duties and/or knowledge areas?
 
-**Duties:**
+**Major duties:**
   - **Data Collection and Wrangling** - gathering data from diverse sources and ensuring its quality and consistency.
   - **Exploratory Data Analysis (EDA)** - using statistical techniques and visualization tools to understand the structure, patterns, and relationships within the data.
   - **Feature Engineering** - selecting and transforming relevant variables to enhance model performance.
   - **Model Building** - developing predictive and analytical models using machine learning algorithms.
   - **Model Evaluation** - assessing model accuracy, reliability, and generalization using appropriate metrics
+  - **Interpretation and Communication** - translating complex analytical results into actionable insights for non-technical stakeholders and effectively communicating findings through reports, presentations, and visualizations
+  - **Programming** - proficiency in languages like Python or R
+  - **Statistics** - applying statistical methods to analyze data and draw conclusions
+  - **Problem-Solving and Creativity** - identifying relevant business or research problems that can be solved using data-driven approaches and developing creative solutions to challenges that arise during data analysis.
 
+ **Knowledge areas**   
+  - **Big Data and Cloud Computing** - understanding of tools like Hadoop, Spark, and Polars for managing and analyzing large datasets and awareness of cloud platforms for scalable data processing
+ 
 
 ## What differences/similarities do you see between data scientists and statisticians?
 
