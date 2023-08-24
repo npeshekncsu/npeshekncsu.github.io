@@ -25,6 +25,14 @@ A data scientist is a professional who uses their skills in various fields such 
 
 ## What do you see as the major duties and/or knowledge areas?
 
+**Duties:**
+  - **Data Collection and Wrangling** - gathering data from diverse sources and ensuring its quality and consistency.
+  - **Exploratory Data Analysis (EDA)** - using statistical techniques and visualization tools to understand the structure, patterns, and relationships within the data.
+  - **Feature Engineering** - selecting and transforming relevant variables to enhance model performance.
+  - **Model Building** - developing predictive and analytical models using machine learning algorithms.
+  - **Model Evaluation** - assessing model accuracy, reliability, and generalization using appropriate metrics
+
+
 ## What differences/similarities do you see between data scientists and statisticians?
 
 ## How do you view yourself in relation to these two areas?
