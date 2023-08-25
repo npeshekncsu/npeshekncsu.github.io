@@ -1,8 +1,8 @@
-## My small blog about data science and statistics
+# My small blog about data science and statistics
 
-Welcome to my blog about statistics and data science.
+### Welcome to my blog about statistics and data science.
 
-Here you can find:
+**Here you can find:**
   * Posts about statistics
   * Posts about data science
 
