@@ -3,4 +3,4 @@
 Welcome to my blog about statistics and data science.
 
 
-![logo](Wings-Of-Fire-Sandwing-Coloring-Pages.png)
+![logo](Wings-Of-Fire-Sandwing-Coloring-Pages.jpg)
