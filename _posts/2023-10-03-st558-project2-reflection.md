@@ -14,16 +14,19 @@ The [IQAir APIs](https://api-docs.iqair.com/?version=latest&_gl=1*nxjz2i*_ga*MTE
 
 # Project overview
 
-In my project I've created several functions which allows easy interact with API and return data in easy to use format, such as lists or tibbles. Two main functions were created in the project:
 
-  - function which allows to retrive air quality and weather metrics based on country, state and optional city. If city is not provided, random sample will be taken from the cities of the selected state
-  - function which allows to retrieve air quality and weather metrics for the country. Random state and random city will be selected from the provided country.
+In my project, I've created several functions that allow easy interaction with the API and return data in an easy-to-use format, such as `lists` or `tibbles`. The project includes two main functions:
 
-Once functions were avaible,  EDA for data for several countries across the globe and data for the several US states were performed.
+  - A function that allows the retrieval of air quality and weather metrics based on country, state, and an optional city. If a city is not provided, a random sample will be taken from the cities of the selected state.
+  - A function that allows the retrieval of air quality and weather metrics for the entire country. A random state and city will be selected from the provided country.
+  - 
+Once the functions were available, exploratory data analysis (EDA) was performed on data from several countries worldwide and data from several U.S. states.
+
+
 
 # Project reflection
 
-I really enjoyed working on this project. I've learned a lot about building GitHub Pages. However, there were some challenges I faced while working on it. One of the big challenges was choosing an API that satisfied the requirements of this project. In the future, I would select a different API. The chosen API returns data per city, which is not convenient for building a large sample.
+I really enjoyed working on this project. I've learned a lot about building GitHub Pages. However, I did encounter some challenges during its development. One of the major challenges was selecting an API that met the project's requirements. In the future, I would consider choosing a different API because the one I selected returns data per city, which is not convenient for constructing a large sample.
 
 
 
