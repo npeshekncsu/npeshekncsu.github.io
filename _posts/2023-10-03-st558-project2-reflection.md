@@ -19,7 +19,7 @@ In my project, I've created several functions that allow easy interaction with t
 
   - A function that allows the retrieval of air quality and weather metrics based on country, state, and an optional city. If a city is not provided, a random sample will be taken from the cities of the selected state.
   - A function that allows the retrieval of air quality and weather metrics for the entire country. A random state and city will be selected from the provided country.
-    
+
 Once the functions were available, exploratory data analysis (EDA) was performed on data from several countries worldwide and data from several U.S. states.
 
 
