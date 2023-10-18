@@ -26,7 +26,7 @@ In this blog I want to discuss my approach to select the variables to use in a r
    
    Stepwise regression techniques, such as forward selection, backward elimination, or best subset selection selection, systematically add or remove variables based on their contribution to the model's goodness of fit (e.g., AIC, BIC). These methods can be useful for automatic feature selection.
 
-6. **Lasso Regression (L1 regularization)**
+6. **Regularization Techniques: Lasso Regression (L1 regularization) and Ridge Regression (L2 Regularization)**
 
    
-   It's a powerful tool for automatic variable selection by driving less significant variables' coefficients to zero, promoting a balance between feature selection and model regularization.
+   Lasso Regression a powerful tool for automatic variable selection by driving less significant variables coefficients to zero, promoting a balance between feature selection and model regularization. Ridge regression is effective in mitigating multicollinearity, where predictor variables are highly correlated, and it helps prevent overfitting by shrinking the coefficients.
