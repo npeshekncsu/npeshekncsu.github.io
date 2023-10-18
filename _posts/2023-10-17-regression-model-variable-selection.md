@@ -24,7 +24,7 @@ In this blog I want to discuss my approach to select the variables to use in a r
 4. **Stepwise procedures**
 
 
-Stepwise regression techniques, such as forward selection, backward elimination, or best subset selection selection, systematically add or remove variables based on their contribution to the model's goodness of fit (e.g., AIC, BIC). These methods can be useful for automatic feature selection.
+  Stepwise regression techniques, such as forward selection, backward elimination, or best subset selection selection, systematically add or remove variables based on their contribution to the model's goodness of fit (e.g., AIC, BIC). These methods can be useful for automatic feature selection.
 
 5. **Lasso Regression (L1 regularization)**
 
