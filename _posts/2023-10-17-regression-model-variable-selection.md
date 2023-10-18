@@ -21,7 +21,12 @@ In this blog I want to discuss my approach to select the variables to use in a r
    Calculate correlation coefficients to identify variables that are highly correlated with the response variable. Variables with strong correlations may be important predictors.
 
    
-4.**Stepwise procedures**
+4. **Stepwise procedures**
+
 
 Stepwise regression techniques, such as forward selection, backward elimination, or best subset selection selection, systematically add or remove variables based on their contribution to the model's goodness of fit (e.g., AIC, BIC). These methods can be useful for automatic feature selection.
-  
+
+5. **Lasso Regression (L1 regularization)**
+
+   
+   It's a powerful tool for automatic variable selection by driving less significant variables' coefficients to zero, promoting a balance between feature selection and model regularization.
