@@ -3,7 +3,7 @@
 ## Project links
 
 We just completed Project 3 form ST-558. Github repo link [github repo](https://github.com/npeshekncsu/st558-project-3).
-Link to the rendered main page of the project [Proje](https://npeshekncsu.github.io/st558-project-3/).
+Link to the rendered main page of the project [Project](https://npeshekncsu.github.io/st558-project-3/).
 
 ## What would you do differently?
 
